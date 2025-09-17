@@ -89,6 +89,9 @@ class MyApp extends StatelessWidget{
                         }
                     );
                   }).toList()
+              Image.asset('grclogo.png',
+              width: 350,
+              height: 350,),
               ),
             ),
 
